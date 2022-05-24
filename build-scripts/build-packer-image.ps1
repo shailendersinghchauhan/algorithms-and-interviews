@@ -3,4 +3,4 @@
 # Purpose: Creates AWS Image
 ###################
 
-write-hostt "Building new Image"
+write-host "Building new Image"
